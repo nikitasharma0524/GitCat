@@ -18,7 +18,6 @@ class AppDelegate: NSObject, NSApplicationDelegate {
             NSApp.terminate(nil) // Exit the app
         }
     }
-
     func showCatIcon() {
         let icon = NSImage(named: "cat") ?? NSImage(systemSymbolName: "tortoise.fill", accessibilityDescription: nil)
         icon?.isTemplate = false
