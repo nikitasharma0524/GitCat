@@ -3,7 +3,6 @@
 //  GitCat
 //  Created by Nikita on 21/07/25.
 //
-
 import Cocoa
 
 class AppDelegate: NSObject, NSApplicationDelegate {
