@@ -25,7 +25,6 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         statusItem = NSStatusBar.system.statusItem(withLength: NSStatusItem.squareLength)
         statusItem?.button?.image = icon
     }
-
     func hideCatIcon() {
         if let item = statusItem {
             NSStatusBar.system.removeStatusItem(item)
