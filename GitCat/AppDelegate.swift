@@ -1,7 +1,6 @@
 //
 //  AppDelegate.swift
 //  GitCat
-//
 //  Created by Nikita on 21/07/25.
 //
 
