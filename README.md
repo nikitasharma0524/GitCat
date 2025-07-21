@@ -10,7 +10,7 @@ GitCat is a lightweight macOS menu bar app that celebrates every Git commit by b
 
 
 
----<img width="151" height="50" alt="Screenshot 2025-07-21 at 11 12 06 PM" src="https://github.com/user-attachments/assets/608bbeb8-0beb-4f9d-a468-a5fed3685b13" />
+<img width="151" height="50" alt="Screenshot 2025-07-21 at 11 12 06 PM" src="https://github.com/user-attachments/assets/608bbeb8-0beb-4f9d-a468-a5fed3685b13" />
 
 
 ## ✨ Features
